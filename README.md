@@ -45,32 +45,25 @@ If you have any questions, or would like to get in contact, I can be reached at 
 
 ## Video of application functionality: 
 
-(https://watch.screencastify.com/v/5V9jKSgQcssiE1AuNUBR)
+(https://watch.screencastify.com/v/f3Mwzwvvogsl4SQ1gxlG)
 
 ---
 
-## Screenshots and Gifs of app: 
+## Gifs of app: 
 
 
-![screenshot of readme file that has been generated using the command line readme generator](/images/readme_screenshot.png)
-
----
-
-![screenshot of heading of readme file that has been generated using the command line](/images/readme_generator_heading_screenshot.png)
-
----
 
 ![screenshot license badge that has been generated using the command line readme generator](/images/readme_generator_license_screenshot.png)
 
 ---
 
-![gif demo of app operation in command line](/images/readme_generator_gif_1.gif)
+![gif demo of app operation in command line](/Assets/npm_i_gif.gif)
 
 ---
 
-![gif demo of app operation in command line](/images/readme_generator_demo_2.gif)
+![gif demo of app operation in command line](/Assets/node_seeds_gif.gif)
 
 ---
 
-![gif demo of app operation for choosing project license information](/images/readme_generator_demo_3.gif)
+![gif demo of app operation for choosing project license information](/Assets/run_app_gif.gif)
 
